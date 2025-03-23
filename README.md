@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Obiorah E. Divine
+### Full-stack and Secure Software Developer
 
 <!--
 **Royaldhee22/Royaldhee22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
